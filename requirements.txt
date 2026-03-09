@@ -1,0 +1,15 @@
+crewai
+python-dotenv
+pandas
+numpy
+requests
+openpyxl
+crewai-tools
+streamlit
+plotly
+matplotlib
+seaborn
+litellm
+fastapi
+apscheduler
+email-validator
