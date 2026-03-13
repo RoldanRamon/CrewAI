@@ -6,4 +6,5 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "google-search-results>=2.4.2",
+    "python-dotenv>=1.2.2",
 ]
